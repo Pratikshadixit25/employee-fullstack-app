@@ -49,8 +49,8 @@ Runs on port 3000
 
 3. Folder Structure
 employee-fullstack-app/
-   ├── backend/    → Spring Boot API
-   └── frontend/   → React.js UI
+   1. backend  → Spring Boot API
+   2. frontend → React.js UI
 
 
   -> How to run Backend ?
